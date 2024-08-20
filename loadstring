@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1273949475773218896/1275412859089715293/message.txt?ex=66c5cc49&is=66c47ac9&hm=7a0523dcd2f088ac9c7208caac9c3c19f27d96a377f1e09c1311294e21befd34&"))()
+loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1273949475773218896/1275411310556876831/message.obfuscated.lua?ex=66c5cad8&is=66c47958&hm=c26aede9103b3608f9fec6119c33ab001d5f050bddb9223bf95f4e1068037ff0&"))()
